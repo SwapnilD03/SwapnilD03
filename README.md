@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year Electrical Engineering undergraduate at NIT Durgapur, minoring in Computer Science, with a strong interest in Software Engineering, Machine Learning, and applied AI systems. I enjoy building end-to-end, production-oriented projects that combine solid DSA foundations with modern ML and backend engineering.
+EE + CS Grad from NIT Durgapur, with a strong interest in Software Engineering, Machine Learning, and applied AI systems. I enjoy building end-to-end, production-oriented projects that combine solid DSA foundations with modern ML and backend engineering.
 
 
 ## 🌐 Socials:
